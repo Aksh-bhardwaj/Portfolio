@@ -15,43 +15,43 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>P.R & Outreach</h4>
+                <h5>Hack4Bengal</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              • Planned and coordinated Hack4Bengal event<br />
+              • Secured sponsorships and managed event budget<br />
+              • Encouraged problem-solving among participants.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Content Writer</h4>
+                <h5>Skepsis[Bit's & bites]</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              •  Create blogs, posts, and newsletters<br />
+              • Maintain brand voice and consistency<br />
+              •  Research trends and engage the audience.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>P.R Lead</h4>
+                <h5>Web3Wizard</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            • Build and maintain community partnerships<br />
+            • Manage outreach and sponsorships<br />
+            • Promote events and boost engagement.
             </p>
           </div>
         </div>
